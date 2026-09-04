@@ -1,0 +1,156 @@
+[bar]
+background       = "#060504"
+background-alpha = 0.90
+text             = "#D9CEC2"
+active           = "#FF5A1F"
+scale-with-font  = true
+size-horizontal  = 30
+size-vertical    = 32
+
+[hyprland]
+active-border            = "#FFB02E #FF4A1C #6E160F 55deg"
+active-border-foreground = "#FFD477 #FF6A4D 55deg"
+
+[controls]
+normal-color        = "#D9CEC2"
+normal-fill-alpha   = 0.03
+normal-border       = "#79655D"
+normal-border-width = 1
+normal-border-alpha = 0.32
+hover-cursor-color        = "#FFF7E8"
+hover-cursor-fill-alpha   = 0.09
+hover-cursor-border       = "#FF5A1F"
+hover-cursor-border-width = "1 1 1 3"
+hover-cursor-border-alpha = 0.88
+focus-color        = "#FFF7E8"
+focus-fill-alpha   = 0.12
+focus-border       = "#FFB02E #FF4A1C 55deg"
+focus-border-width = "1 1 1 3"
+focus-border-alpha = 1.0
+selected-color        = "#FFF7E8"
+selected-fill-alpha   = 0.15
+selected-border       = "#FF4A1C #6E160F 55deg"
+selected-border-width = "1 1 1 4"
+selected-border-alpha = 1.0
+pressed-fill-alpha   = 0.24
+selection-fill-alpha = 0.36
+
+[spacing]
+scale = 0.96
+scale-with-font = true
+control-gap = 7
+control-padding-x = 11
+control-padding-y = 6
+input-padding-y = 7
+control-height = 30
+popup-row-height = 30
+row-gap = 7
+row-padding-x = 13
+label-gap = 5
+panel-gap = 14
+panel-padding = 18
+popup-padding = 15
+dropdown-width = 250
+searchable-dropdown-width = 280
+number-field-width = 124
+searchable-popup-min-height = 230
+
+[font]
+base-size = 12
+caption = 10
+body-small = 11
+body = 12
+subtitle = 13
+title = 14
+heading = 17
+display = 24
+display-large = 30
+icon-small = 11
+icon = 14
+icon-large = 19
+
+[popups]
+background = "#0A0807"
+background-alpha = 0.95
+text = "#D9CEC2"
+border = "#FFB02E #FF4A1C #6E160F 55deg"
+border-alpha = 0.94
+border-width = "1 1 1 3"
+
+[tooltip]
+background = "#020201"
+background-alpha = 0.98
+text = "#F0E2D2"
+border = "#9A6548"
+border-alpha = 0.70
+
+[notifications]
+background = "#0A0807"
+background-alpha = 0.96
+text = "#F0E2D2"
+border = "#FFB02E #FF4A1C 55deg"
+border-alpha = 1.0
+border-width = "1 1 1 4"
+countdown = "#E7B64C"
+
+[launcher]
+background = "#060504"
+background-alpha = 0.96
+text = "#F0E2D2"
+border = "#FFB02E #FF4A1C #6E160F 55deg"
+border-alpha = 1.0
+scrim = "#020201"
+scrim-alpha = 0.72
+selected-background = "#FF5A1F"
+selected-background-alpha = 0.14
+selected-text = "#FFD477"
+selected-border = "#FF4A1C"
+selected-border-alpha = 0.94
+
+[menu]
+background = "#060504"
+background-alpha = 0.97
+text = "#F0E2D2"
+border = "#FFB02E #FF4A1C 55deg"
+border-alpha = 1.0
+scrim = "#020201"
+scrim-alpha = 0.68
+selected-background = "#FF4A1C"
+selected-background-alpha = 0.13
+selected-text = "#FF6A4D"
+selected-border = "#FFB02E"
+selected-border-alpha = 0.90
+
+[polkit]
+background = "#060504"
+background-alpha = 0.98
+text = "#F0E2D2"
+text-error = "#FF6A4D"
+border = "#FFB02E #FF4A1C 55deg"
+border-error = "#E44735"
+border-alpha = 1.0
+scrim = "#020201"
+scrim-alpha = 0.78
+accent = "#E7B64C"
+
+[lock]
+background = "#060504"
+background-alpha = 0.86
+text = "#F0E2D2"
+placeholder = "#85766C"
+text-error = "#FF6A4D"
+border = "#49342D"
+border-active = "#FFB02E #FF4A1C 55deg"
+border-error = "#E44735 #E7B64C 55deg"
+border-alpha = 1.0
+selection = "#FF5A1F"
+selection-alpha = 0.48
+
+[image-picker]
+scrim = "#020201"
+scrim-alpha = 0.70
+text = "#F0E2D2"
+selected-border = "#FFB02E #FF4A1C 55deg"
+selected-border-alpha = 1.0
+unselected-border = "#85766C"
+unselected-border-alpha = 0.32

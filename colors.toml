@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Cinder Rot: soot-black surfaces with a narrow ember signal.
+accent = "#FF5A1F"
+selection = "#3A1710"
+selection_background = "#3A1710"
+selection_foreground = "#FFF1D6"
+muted = "#79655D"
+
+background = "#0A0807"
+dark_background = "#060504"
+darker_background = "#020201"
+lighter_background = "#18110E"
+
+foreground = "#D9CEC2"
+dark_foreground = "#85766C"
+light_foreground = "#F0E2D2"
+bright_foreground = "#FFF7E8"
+
+hyprland_active_border = "rgba(FFB02Eee) rgba(FF4A1Cee) rgba(6E160Fdd) 55deg"
+hyprland_inactive_border = "rgba(49342D88)"
+active_border_color = "#FF5A1F"
+active_tab_background = "#2A120D"
+
+red = "#E44735"
+yellow = "#E7B64C"
+orange = "#FF6B25"
+green = "#8FA86A"
+cyan = "#78A6A1"
+blue = "#718CA8"
+magenta = "#A87582"
+brown = "#9A6548"
+
+bright_red = "#FF6A4D"
+bright_yellow = "#FFD477"
+bright_green = "#B3C98A"
+bright_cyan = "#9EC7C0"
+bright_blue = "#9BB2C9"
+bright_magenta = "#C99AA5"
